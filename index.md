@@ -11,7 +11,7 @@ page_sections:
   cta:
     button_text: Get Quote
     url: mailto:hello@cousins.cc
-  logo: ''
+  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
