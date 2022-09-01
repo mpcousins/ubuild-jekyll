@@ -12,6 +12,15 @@ page_sections:
     button_text: Get Quote
     url: mailto:hello@cousins.cc
   logo: "/uploads/2018/06/21/forestry-full.svg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: For all your maintenance needs
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
