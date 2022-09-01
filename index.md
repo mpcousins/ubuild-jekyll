@@ -3,10 +3,15 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header
-  block: header-1
+- template: navigation-header-w-button
+  block: header-2
+  navigation:
+  - link: ''
+    link_text: ''
+  cta:
+    button_text: Get Quote
+    url: mailto:hello@cousins.cc
   logo: ''
-  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   slug: features
