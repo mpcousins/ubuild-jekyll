@@ -15,11 +15,12 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>For</strong> all your maintenance needs"
+  headline: <strong><img src="/uploads/2018/06/21/blocks-split.png"></strong> all
+    your maintenance needs
   slug: ''
-  content: <img src="/uploads/2018/06/21/blocks-split.png">
+  content: ''
   media:
-    image: ''
+    image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: ''
 - template: hero-banner-w-image
   block: hero-2
