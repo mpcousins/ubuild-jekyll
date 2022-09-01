@@ -17,7 +17,7 @@ page_sections:
   media_alignment: Right
   headline: "<strong>For</strong> all your maintenance needs"
   slug: ''
-  content: ''
+  content: <img src="/uploads/2018/06/21/blocks-split.png">
   media:
     image: ''
     alt_text: ''
