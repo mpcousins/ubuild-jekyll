@@ -15,7 +15,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: For all your maintenance needs
+  headline: "<strong>For</strong> all your maintenance needs"
   slug: ''
   content: ''
   media:
