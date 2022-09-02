@@ -41,7 +41,7 @@ page_sections:
   image:
     image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
     alt_text: Electrics
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2022/09/02/kiwihug-3gifzboyzk0-unsplash.jpg"
 - template: 2-column-media-element
   block: media-2
   image_1:
