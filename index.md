@@ -3,6 +3,13 @@ layout: blocks
 title: Homepage
 date: 2022-09-02 22:00:00 +0000
 page_sections:
+- template: navigation-header-w-button
+  block: header-2
+  logo: "/uploads/2018/06/21/forestry-full.svg"
+  cta:
+    button_text: Get a quote
+    url: mailto:hello@cousins.cc
+  navigation: []
 - template: content-feature
   block: feature-1
   media_alignment: Left
