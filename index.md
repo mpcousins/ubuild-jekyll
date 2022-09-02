@@ -39,10 +39,8 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can be edited in Forestry
-    CMS.
+  headline: For all your <strong>maintenance needs</strong>
+  content: ''
   media:
     image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
     alt_text: Customize Blocks
