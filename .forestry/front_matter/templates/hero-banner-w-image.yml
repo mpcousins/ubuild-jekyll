@@ -10,6 +10,7 @@ fields:
 - type: file
   name: background_image
   label: Background Image
+  hidden: true
 - type: field_group
   name: image
   label: Image
