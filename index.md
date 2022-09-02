@@ -3,15 +3,6 @@ layout: blocks
 title: Homepage
 date: 2022-09-02 22:00:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  navigation:
-  - link: ''
-    link_text: ''
-  cta:
-    button_text: Get Quote
-    url: mailto:hello@cousins.cc
-  logo: "/uploads/2018/06/21/forestry-full.svg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -21,6 +12,30 @@ page_sections:
   media:
     image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
     alt_text: uBuild Blocks Mock-Up
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
+  caption: All Available Blocks
+  slug: blocks
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: For all your<br><strong>Maintenance needs</strong>
+  slug: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    content: Test
+    headline: ''
+    slug: ''
+  col_2:
+    content: Test
+    headline: ''
+    slug: ''
+  col_3:
+    content: Test
+    headline: ''
+    slug: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -52,11 +67,6 @@ page_sections:
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
-  caption: All Available Blocks
-  slug: blocks
 - template: 2-column-media-element
   block: media-2
   image_1:
