@@ -29,23 +29,6 @@ page_sections:
     content: Test
     headline: ''
     slug: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  media:
-    image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
-    alt_text: ''
-  content: ''
-  headline: For all your<br><strong>maintenance needs</strong>
-  slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/09/02/pexels-magic-k-6728933.jpg"
-    caption: ''
-  image_2:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691679.jpg"
-    caption: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -58,7 +41,24 @@ page_sections:
   image:
     image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
     alt_text: Electrics
-  background_image: ''
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/02/pexels-magic-k-6728933.jpg"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691679.jpg"
+    caption: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  media:
+    image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
+    alt_text: ''
+  content: ''
+  headline: For all your<br><strong>maintenance needs</strong>
+  slug: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
