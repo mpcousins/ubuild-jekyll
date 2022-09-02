@@ -35,17 +35,9 @@ page_sections:
   media:
     image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
     alt_text: ''
-  content: For all your<br><strong>maintenance needs</strong>
-  headline: ''
+  content: ''
+  headline: For all your<br><strong>maintenance needs</strong>
   slug: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
-    caption: ''
-  image_2:
-    image: ''
-    caption: ''
 - template: 2-column-media-element
   block: media-2
   image_1:
