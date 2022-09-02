@@ -65,6 +65,14 @@ page_sections:
   image_2:
     image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
     caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/02/pexels-magic-k-6728933.jpg"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
+    caption: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
