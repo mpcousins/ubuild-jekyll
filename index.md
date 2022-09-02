@@ -16,7 +16,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: maintenance
-  headline: <strong>For all </strong><span class="light">your maintenance needs</span>
+  headline: <strong>For all<br></strong><span class="light">your maintenance needs</span>
   content: ''
   media:
     image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
@@ -39,7 +39,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   slug: customize
-  headline: For all your <strong>maintenance needs</strong>
+  headline: For all your<br><strong>maintenance needs</strong>
   content: ''
   media:
     image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
