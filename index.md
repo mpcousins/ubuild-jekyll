@@ -45,9 +45,9 @@ page_sections:
     url: mailto:hello@cousins.cc
     button_text: Get a quote
   image:
-    image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
+    image: ''
     alt_text: Electrics
-  background_image: "/uploads/2022/09/02/kiwihug-3gifzboyzk0-unsplash.jpg"
+  background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: 2-column-media-element
   block: media-2
   image_1:
