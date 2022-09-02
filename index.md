@@ -59,6 +59,9 @@ page_sections:
   content: ''
   headline: For all your<br><strong>maintenance needs</strong>
   slug: ''
+  call_to_action:
+    url: mailto:hello@cousins.cc
+    button_text: Get a quote
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
