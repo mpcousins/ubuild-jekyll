@@ -10,6 +10,15 @@ page_sections:
     button_text: Get a quote
     url: mailto:hello@cousins.cc
   navigation: []
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  slug: customize
+  headline: For all your<br><strong>maintenance needs</strong>
+  content: ''
+  media:
+    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
+    alt_text: Customize Blocks
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
@@ -42,15 +51,6 @@ page_sections:
     image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: For all your<br><strong>maintenance needs</strong>
-  content: ''
-  media:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
-    alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
   slug: responsive
