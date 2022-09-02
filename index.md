@@ -11,6 +11,16 @@ page_sections:
   image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
   caption: ''
   slug: blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: For all your<br><strong>maintenance needs</strong>
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+  call_to_action: {}
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -69,15 +79,5 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: For all your<br><strong>maintenance needs</strong>
-  slug: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
-  call_to_action: {}
 
 ---
