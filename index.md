@@ -52,13 +52,13 @@ page_sections:
   headline: For all your <br><strong>maintenance needs</strong>
   content: ''
   cta:
-    enabled: false
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    enabled: true
+    url: mailto:hello@cousins.cc
+    button_text: Get a quote
   image:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
+    alt_text: Electrics
+  background_image: ''
 - template: 1-column-text
   block: one-column-1
   slug: responsive
