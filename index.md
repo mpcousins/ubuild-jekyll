@@ -10,25 +10,11 @@ page_sections:
     button_text: Get a quote
     url: mailto:hello@cousins.cc
   navigation: []
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: maintenance
-  headline: <strong>For all<br></strong><span class="light">your maintenance needs</span>
-  content: ''
-  media:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
-    alt_text: uBuild Blocks Mock-Up
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
   caption: All Available Blocks
   slug: blocks
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  content: For all your<br><strong>Maintenance needs</strong>
-  slug: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
@@ -47,14 +33,13 @@ page_sections:
   block: hero-2
   slug: features
   headline: For all your <br><strong>maintenance needs</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: ''
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
+    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
