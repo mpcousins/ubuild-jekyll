@@ -12,6 +12,15 @@ page_sections:
     button_text: Get Quote
     url: mailto:hello@cousins.cc
   logo: "/uploads/2018/06/21/forestry-full.svg"
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  slug: maintenance
+  headline: <strong>For all </strong><span class="light">your maintenance needs</span>
+  content: ''
+  media:
+    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
+    alt_text: uBuild Blocks Mock-Up
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -26,17 +35,6 @@ page_sections:
     image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: swap
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
-  media:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
-    alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
   media_alignment: Right
