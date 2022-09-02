@@ -71,7 +71,7 @@ page_sections:
     image: "/uploads/2022/09/02/pexels-magic-k-6728933.jpg"
     caption: ''
   image_2:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
+    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691679.jpg"
     caption: ''
 - template: detail-content
   block: text-1
