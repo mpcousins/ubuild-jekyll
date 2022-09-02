@@ -3,13 +3,9 @@ layout: blocks
 title: Homepage
 date: 2022-09-02 22:00:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: simple-header
+  block: header-3
   logo: "/uploads/2018/06/21/forestry-full.svg"
-  cta:
-    button_text: Get a quote
-    url: mailto:hello@cousins.cc
-  navigation: []
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
@@ -73,5 +69,15 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: For all your<br><strong>maintenance needs</strong>
+  slug: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+  call_to_action: {}
 
 ---
