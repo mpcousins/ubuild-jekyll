@@ -13,7 +13,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
-  caption: All Available Blocks
+  caption: ''
   slug: blocks
 - template: 3-column-text
   block: three-column-1
