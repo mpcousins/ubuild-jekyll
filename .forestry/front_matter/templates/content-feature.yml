@@ -44,3 +44,13 @@ fields:
     - Right
   label: Media Alignment
   default: Right
+- name: url
+  type: text
+  config:
+    required: false
+  label: URL
+- name: button_text
+  type: text
+  config:
+    required: false
+  label: Button_text
