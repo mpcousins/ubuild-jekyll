@@ -10,15 +10,6 @@ page_sections:
     button_text: Get a quote
     url: mailto:hello@cousins.cc
   navigation: []
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  slug: customize
-  headline: For all your<br><strong>maintenance needs</strong>
-  content: ''
-  media:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691639.jpg"
-    alt_text: Customize Blocks
 - template: full-width-media-element
   block: media-1
   image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
@@ -38,6 +29,22 @@ page_sections:
     content: Test
     headline: ''
     slug: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2022/09/02/pexels-magic-k-6728933.jpg"
+    caption: ''
+  image_2:
+    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691679.jpg"
+    caption: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -59,22 +66,6 @@ page_sections:
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
     create new sites and make them fully customizable.
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/09/02/pexels-pixabay-257736.jpg"
-    caption: ''
-  image_2:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5768107.jpg"
-    caption: ''
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/2022/09/02/pexels-magic-k-6728933.jpg"
-    caption: ''
-  image_2:
-    image: "/uploads/2022/09/02/pexels-ksenia-chernaya-5691679.jpg"
-    caption: ''
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!
